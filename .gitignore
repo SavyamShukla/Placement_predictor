@@ -41,5 +41,5 @@ Thumbs.db
 .idea/
 
 # Root temporary / backup files
-/Placement_Intelligence_Fullstack_Ready.zip
+*.zip
 /placement_predictor.joblib
